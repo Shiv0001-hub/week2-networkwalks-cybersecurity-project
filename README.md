@@ -1,6 +1,6 @@
 # Week 2 Cybersecurity & Ethical Hacking Project
 
-**Student:** Shiv Kumar Das  
+**Student:** Shiv Das  
 **Batch:** BO83  
 **Program:** Networkwalks Internship  
 **Date:** 18 September 2026  
